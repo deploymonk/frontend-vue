@@ -2,7 +2,7 @@
 
 Repository for the the following guide:
 
-**Svelte**
+**Vue**
 
 Deploy your client front-end websites and web applications build using Vue framework easily using Deploy Monk.
 
