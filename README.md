@@ -1,9 +1,12 @@
-# frontend-vue
+<a href="https://deploymonk.com"><img src="https://deploymonk.com/images/brand.png" alt="Deploy Monk" height="60" /></a>
 
-Repository for the the following guide:
+A super simple Vue application.
 
-**Vue**
+## Getting started
 
-Deploy your client front-end websites and web applications build using Vue framework easily using Deploy Monk.
+- Clone this repository: `git clone git@github.com:deploymonk/frontend-vue.git`
+- Install dependencies: `npm install`
+- Start server: `npm start`
 
-Link: [explore.deploymonk.com/docs/frontend-vue](https://explore.deploymonk.com/docs/frontend-vue)
+## Deploy
+Deploy your own clone of this repository using Deploy Monk. Head to [explore.deploymonk.com/docs/frontend-vue](https://explore.deploymonk.com/docs/frontend-vue) to learn more!
